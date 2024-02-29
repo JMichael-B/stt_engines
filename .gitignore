@@ -1,0 +1,9 @@
+# Unimportant files
+.venv/
+.env
+DeepGram.ipynb
+mic_source.ipynb
+SpeechRecognition.ipynb
+stt_implemetation_system.py
+Vosk.ipynb
+Whisper.ipynb
